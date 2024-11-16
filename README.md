@@ -1,7 +1,8 @@
 ### Hi, Welcome to my Github 👋
 
 
-## 🔭 I’m currently working on getting my degree in applied computer science at the [RWU](https://www.rwu.de/)!
+## 🔭 I’m currently working on 
+.. getting my degree in applied computer science at the [RWU](https://www.rwu.de/)!
 
 ## 🌱 I’m currently learning
 - Computer Vision
