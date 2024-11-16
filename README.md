@@ -8,7 +8,7 @@
 - Automotive Electronic Controls
 
 ## 📊 GitHub Stats
-![Metrics](https://github.com/vigoux/vigoux/blob/main/github-metrics.svg)
+![Metrics](https://github.com/skydeke/skydeke/blob/main/github-metrics.svg)
 
 ## 📝 Skills
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
