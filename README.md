@@ -8,8 +8,7 @@
 - Automotive Electronic Controls
 
 ## 📊 GitHub Stats
-[![Skydeke's github stats](https://github-readme-stats.vercel.app/api?username=Skydeke&count_private=true&show_icons=true&hide_border=true&theme=dark)](https://github.com/Skydeke)
-[![Skydeke's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Skydeke&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&count_private=true&langs_count=8&theme=dark)](https://github.com/Skydeke)
+![Metrics](https://github.com/vigoux/vigoux/blob/main/github-metrics.svg)
 
 ## 📝 Skills
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
