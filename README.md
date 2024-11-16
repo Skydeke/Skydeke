@@ -4,8 +4,8 @@
 ## 🔭 I’m currently working on getting my degree in applied computer science at the [RWU](https://www.rwu.de/)!
 
 ## 🌱 I’m currently learning
-- web development with Vue.js and Express
-- arteficial intelligence
+- Computer Vision
+- Automotive Electronic Controls
 
 ## 📊 GitHub Stats
 [![Skydeke's github stats](https://github-readme-stats.vercel.app/api?username=Skydeke&count_private=true&show_icons=true&hide_border=true&theme=dark)](https://github.com/Skydeke)
