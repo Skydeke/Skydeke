@@ -21,6 +21,7 @@ Writing my bachelor's thesis in the IoT space: **"Open Source Modules for Device
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![ThingWorx](https://img.shields.io/badge/ThingWorx-00A651?style=for-the-badge&logoColor=white)
 
 ## My Setup
 - **OS**: Arch Linux (because why not?)
