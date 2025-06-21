@@ -1,5 +1,7 @@
 # Hi, I'm David! :D
 
+I love reverse engineering and making things work where they're not supposed to. That means emulators, creating custom server implementations for games I like, and generally hacking around with systems to understand how they tick. (Just because I like these things, don't assume I'm good at them :D)
+
 ## I'm currently working on
 Writing my bachelor's thesis in the IoT space: **"Open Source Modules for Device Management"** at [RWU](https://www.rwu.de/)! 
 
